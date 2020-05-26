@@ -1,6 +1,5 @@
 # SIGIR20_QINM
 
- # QMWF-LM
 This is the code of the paper:
 
 To be added
