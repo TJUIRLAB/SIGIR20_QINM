@@ -22,7 +22,8 @@ You can run this model by:
 ```
 python train.py
 ```
-
+## The detailed Architecture of the QINM model
+![ABC]() 
 
 ## REFERENCES
 
