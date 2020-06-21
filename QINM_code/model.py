@@ -267,8 +267,8 @@ class QINM(object):
 				kernel_initializer=tf.random_normal_initializer(mean = 0, stddev= 0.1 / np.sqrt(64)),
 				bias_initializer=tf.constant_initializer(0.1),
 				name = "out_layer")
-		self.logits = 3*output
-		self.scores = 3*output
+		self.logits = 2*output
+		self.scores = 2*output
 
 	def ngram_cnn_network(self):
 
@@ -303,5 +303,4 @@ class QINM(object):
 		self.feed_neural_work_query_gate()
 		self.create_loss()
 		print ("end build graph")
-		# exit()
 
