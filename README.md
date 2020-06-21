@@ -23,7 +23,7 @@ You can run this model by:
 python train.py
 ```
 ## The Model Architecture 
-![The Architecture of the QINM model](https://github.com/TJUIRLAB/SIGIR20_QINM/blob/master/imgs/model.png) 
+![The Architecture of the QINM model](https://github.com/TJUIRLAB/SIGIR20_QINM/blob/master/imgs/model.jpg) 
 
 ## REFERENCES
 
