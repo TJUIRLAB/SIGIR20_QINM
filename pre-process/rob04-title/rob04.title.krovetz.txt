@@ -1,0 +1,250 @@
+301	international	organized	crime
+302	poliomyeliti	post	polio
+303	hubble	telescope	achievement
+304	endanger	species	mammal
+305	dangerous	vehicle
+306	africa	civilian	death
+307	new	hydroelectric	project
+308	implant	dentistry
+309	rap	crime
+310	radio	wave	brain	cancer
+311	industrial	espionage
+312	hydroponics
+313	magnetic	levitate	maglev
+314	marine	vegetation
+315	unexplained	highway	accident
+316	polygamy	polyandry	polygyny
+317	unsolicited	faxe
+318	best	retirement	country
+319	new	fuel	source
+320	undersea	fiber	optic	cable
+321	women	parliament
+322	international	art	crime
+323	literary	journalist	plagiarism
+324	argentina	britain	relations
+325	cult	lifestyle
+326	ferry	sink
+327	modern	slavery
+328	pope	beatification
+329	mexico	air	pollution
+330	iran	iraq	cooperation
+331	world	bank	criticism
+332	income	tax	evasion
+333	antibiotic	bacteria	disease
+334	export	control	cryptography
+335	adoptive	biological	parent
+336	black	bear	attack
+337	viral	hepatitis
+338	risk	aspirin
+339	alzheimer	drug	treatment
+340	land	mine	ban
+341	airport	security
+342	diplomatic	expulsion
+343	police	death
+344	abuse	e	mail
+345	overseas	tobacco	sales
+346	educational	standard
+347	wildlife	extinction
+348	agoraphobia
+349	metabolism
+350	health	computer	terminal
+351	falkland	petroleum	exploration
+352	britain	chunnel	impact
+353	antarctica	exploration
+354	journalist	risk
+355	ocean	remote	sense
+356	postmenopausal	estrogen	britain
+357	territorial	waters	dispute
+358	blood	alcohol	fatality
+359	mutual	fund	predict
+360	drug	legalize	benefit
+361	clothing	sweatshop
+362	human	smuggle
+363	transportation	tunnel	disaster
+364	rabies
+365	el	nino
+366	commercial	cyanide	use
+367	piracy
+368	vitro	fertilize
+369	anorexia	nervosa	bulimia
+370	food	drug	law
+371	health	insurance	holistic
+372	native	america	casino
+373	encryption	equipment	export
+374	nobel	prize	winner
+375	hydrogen	energy
+376	world	court
+377	cigar	smoking
+378	euro	opposition
+379	mainstream
+380	obese	medical	treatment
+381	alternative	medicine
+382	hydrogen	fuel	automobile
+383	mental	illness	drug
+384	space	station	moon
+385	hybrid	fuel	car
+386	teaching	disabled	children
+387	radioactive	waste
+388	organic	soil	enhance
+389	illegal	technology	transfer
+390	orphan	drug
+391	rd	drug	price
+392	robot
+393	mercy	killing
+394	home	schooling
+395	tourism
+396	sick	building	syndrome
+397	automobile	recall
+398	dismantle	europe	arsenal
+399	oceanography	vessel
+400	amazon	rain	forest
+401	foreign	minority	germany
+402	behavior	genetics
+403	osteoporosi
+404	ireland	peace	talks
+405	cosmic	event
+406	parkinson	disease
+407	poach	wildlife	preserve
+408	tropical	storm
+409	legal	pan	103
+410	schengen	agreement
+411	salvage	shipwreck	treasure
+412	airport	security
+413	steel	production
+414	cuba	sugar	export
+415	drug	golden	triangle
+416	three	gorge	project
+417	creativity
+418	quilt	income
+419	recycle	automobile	tire
+420	carbon	monoxide	poison
+421	industrial	waste	disposal
+422	art	stolen	forge
+423	milosevic	mirjana	markovic
+424	suicide
+425	counterfeit	money
+426	law	enforce	dogs
+427	uv	damage	eyes
+428	decline	birth	rate
+429	legionnaire	disease
+430	killer	bee	attack
+431	robot	technology
+432	profile	motorist	police
+433	greece	philosophy	stoicism
+434	estonia	economy
+435	curb	population	growth
+436	railway	accident
+437	deregulation	gas	electric
+438	tourism	increase
+439	invention	scientific	discovery
+440	child	labor
+441	lyme	disease
+442	heroic	acts
+443	investment	africa
+444	supercritic	fluid
+445	women	clergy
+446	tourist	violence
+447	stirl	engine
+448	ship	loss
+449	antibiotic	ineffective
+450	king	hussein	peace
+601	turkey	iraq	water
+602	czech	slovak	sovereignty
+603	tobacco	cigarette	lawsuit
+604	lyme	disease	arthritis
+605	great	britain	health	care
+606	leg	trap	ban
+607	human	genetic	code
+608	tax	social	security
+609	capita	alcohol	consumption
+610	minimum	wage	adverse	impact
+611	kurd	germany	violence
+612	tibet	protest
+613	berlin	wall	disposal
+614	flavr	savr	tomato
+615	timber	export	asia
+616	volkswagen	mexico
+617	russia	cuba	economy
+618	ayatollah	khomeini	death
+619	winnie	mandela	scandal
+620	france	nuclear	test
+621	women	ordain	church	england
+622	price	fix
+623	toxic	chemical	weapon
+624	sdi	star	war
+625	arrest	bomb	wtc
+626	human	stampede
+627	russia	food	crisis
+628	invasion	panama
+629	abortion	clinic	attack
+630	gulf	war	syndrome
+631	mandela	south	africa	president
+632	southeast	asia	tin	mining
+633	welsh	devolution
+634	l	tryptophan	death
+635	doctor	assist	suicide
+636	jury	duty	exemption
+637	human	growth	hormone	hgh
+638	wrongful	conviction
+639	consumer	line	shop
+640	maternity	leave	policy
+641	valdez	wildlife	marine	life
+642	tiananmen	square	protest
+643	salmon	dam	pacific	northwest
+644	exotic	animal	import
+645	software	piracy
+646	food	stamp	increase
+647	windmill	electricity
+648	family	leave	law
+649	computer	virus
+650	tax	evasion	indict
+651	ethnic	population
+652	oic	balkan	1990s
+653	eta	basque	terrorism
+654	sex	school
+655	add	diagnosis	treatment
+656	lead	poison	children
+657	school	prayer	ban
+658	teenage	pregnancy
+659	cruise	health	safety
+660	whale	watch	california
+661	melanoma	treatment	cause
+662	telemarketer	protection
+663	agent	orange	exposure
+664	america	indian	museum
+665	poverty	africa	sub	sahara
+666	thatch	resignation	impact
+667	unmarried	partner	household
+668	poverty	disease
+669	islam	revolution
+670	election	apathy
+671	salvation	army	benefit
+672	nra	membership	profile
+673	soviet	withdrawal	afghanistan
+674	greenpeace	prosecute
+675	olympic	training	swimming
+676	poppy	cultivation
+677	leaning	tower	pisa
+678	joint	custody	impact
+679	opening	adoption	record
+680	immigrant	spain	school
+681	wind	power	location
+682	adult	immigrant	english
+683	czechoslovakia	breakup
+684	part	time	benefit
+685	oscar	winner	selection
+686	argentina	peg	dollar
+687	northern	ireland	industry
+688	non	media	bias
+689	family	plan	aid
+690	college	education	advantage
+691	clear	cutting	forest
+692	prostate	cancer	detection	treatment
+693	newspaper	electronic	media
+694	compost	pile
+695	white	collar	crime	sentence
+696	safety	plastic	surgery
+697	air	traffic	controller
+698	literacy	rate	africa
+699	term	limit
+700	gasoline	tax
