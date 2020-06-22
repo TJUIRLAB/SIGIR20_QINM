@@ -11,8 +11,6 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer
 from nltk.stem.lancaster import LancasterStemmer
-# from nltk.stem.Snowball import SnowballStemmer 
-# from gensim.models.keyedvectors import KeyedVectors
 from random import *
 import numpy as np
 import importlib
@@ -26,10 +24,7 @@ from sklearn.model_selection import train_test_split
 from functools import wraps
 import time
 stoplist = stopwords.words('english')
-#creat a list which contains query and its candidate document set
-#each candidate document set have many document which
 wlem = WordNetLemmatizer()
-
 
 def log_time_delta(func):
     @wraps(func)
@@ -48,18 +43,13 @@ def get_queryContent_label(pro_dataset, data_dir, outfile, test = True):
 		print ("start build final test file!!")
 	else:
 		print ("start build final train file!!")
-	# data_dir = "data_set/clueweb09B-title/train_data.txt"
-
-	# query_dir = "../data_set/clueweb09B-title/clueweb.title.krovetz.txt"
+		
 	query_dir = "../pre-process/"+pro_dataset+"/clueweb.title.krovetz.txt"
 	
-	# label_file = "../qrels_1-150.txt"
 	label_file = "../pre-process/"+pro_dataset+"/qrels_1-150.txt"
-	# outfile = "data_set/clueweb09B-title/corpus_query1_50.txt"
 	f1 = open(data_dir)
 	f2 = open(query_dir)
 	f3 = open(label_file)
-	# out_list = []
 
 	query_dic = {}
 	for query in f2.readlines():
@@ -80,7 +70,6 @@ def get_queryContent_label(pro_dataset, data_dir, outfile, test = True):
 		else:
 			label_dic.update({labelList[0]+"_"+labelList[2]:labelList[3].strip()})
 	# print(label_dic)
-	# exit()
 	out = open(outfile,'w')
 	
 	if test:		
@@ -101,7 +90,6 @@ def get_queryContent_label(pro_dataset, data_dir, outfile, test = True):
 	f3.close()
 	f2.close()
 	f1.close()
-	#打乱顺序
 	if test:
 		data_file = os.path.join(outfile)
 		data = pd.read_csv(data_file,header = None,sep="\t",names=["query_ID","query_content","document","document_content","flag","tfidf"],quoting =3).fillna('')
@@ -181,7 +169,7 @@ def get_word_dic(doc_wordList):
 			if item not in word_dic: 
 				word_dic.update({item:wid})
 				wid += 1
-	print ("\nget_word_dic over!!\n")
+	print ("\n get_word_dic over!!\n")
 	return word_dic
 
 
