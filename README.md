@@ -27,7 +27,7 @@ python train.py
 ## REFERENCES
 
 If you find this code is useful, please consider citing our work.
-
+```
 @inproceedings{jiang2020quantum,
   author = {Jiang, Yongyu and Zhang, Peng and Gao, Hui and Song, Dawei},
   title = {A Quantum Interference Inspired Neural Matching Model for Ad-Hoc Retrieval},
@@ -44,4 +44,5 @@ If you find this code is useful, please consider citing our work.
   location = {Virtual Event, China},
   series = {SIGIR '20}
 }
+```
 
