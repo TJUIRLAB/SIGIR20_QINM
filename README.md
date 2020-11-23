@@ -28,5 +28,20 @@ python train.py
 
 If you find this code is useful, please consider citing our work.
 
-To be added
+@inproceedings{jiang2020quantum,
+  author = {Jiang, Yongyu and Zhang, Peng and Gao, Hui and Song, Dawei},
+  title = {A Quantum Interference Inspired Neural Matching Model for Ad-Hoc Retrieval},
+  year = {2020},
+  isbn = {9781450380164},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3397271.3401070},
+  doi = {10.1145/3397271.3401070},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {19–28},
+  numpages = {10},
+  keywords = {information retrieval, learning-to-rank, neural matching models, quantum interference},
+  location = {Virtual Event, China},
+  series = {SIGIR '20}
+}
 
